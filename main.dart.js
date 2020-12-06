@@ -42538,7 +42538,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 F.v8.prototype={
-K:function(a,b){return new S.nU(new F.o6("Flutter Demo Home Page",null),"Flutter Demo",X.Y2(null,C.lH),null)}}
+K:function(a,b){return new S.nU(new F.o6("Fluttersss Demo Home Page",null),"Flutter Demo",X.Y2(null,C.lH),null)}}
 F.o6.prototype={
 aJ:function(){return new F.qq(C.l)}}
 F.qq.prototype={
